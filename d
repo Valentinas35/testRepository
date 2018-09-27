@@ -1,0 +1,32 @@
+[33mcommit 2ecd0e0105c4800e2931de2a64dbbd346719b7af[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Valentinas.Pazemys <valentinas.pazemys@mycit.ie>
+Date:   Thu Sep 27 16:26:29 2018 +0100
+
+    Added the 'ignore' file
+
+[33mcommit 84045ef5228cb60bb0024942b31e570ab257b89e[m
+Author: Valentinas.Pazemys <valentinas.pazemys@mycit.ie>
+Date:   Thu Sep 27 16:19:36 2018 +0100
+
+    Undo changes made in error - TEST
+
+[33mcommit 0ac8d5fd7b5a0f1605d3e359dc55747aa9dd71eb[m
+Author: Valentinas.Pazemys <valentinas.pazemys@mycit.ie>
+Date:   Thu Sep 27 16:16:04 2018 +0100
+
+    "Readme file for the tutorial repository"
+    test1
+    newlineInbetween
+    testTesttestTest
+
+[33mcommit a425a3ac97ad01acab1df799e66be28acde5ff33[m
+Author: Valentinas Pazemys <valentinas.pazemys@mycit.ie>
+Date:   Thu Sep 20 16:19:39 2018 +0100
+
+    my second change to the readme file
+
+[33mcommit ad30e232297261026fdb9a801047c83486817b28[m
+Author: Valentinas Pazemys <valentinas.pazemys@mycit.ie>
+Date:   Thu Sep 20 16:15:04 2018 +0100
+
+    readme.md
